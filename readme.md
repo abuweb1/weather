@@ -3,4 +3,4 @@
 - 3. деплой на gitPages
 - 4. Readme c описанием проекта и ссылкой на pages
 
-[Page](https://pox21.github.io/weather/)
+[Page](https://abuweb1.github.io/weather/)
